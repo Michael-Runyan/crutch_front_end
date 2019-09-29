@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='crutches_front_end'
