@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">crutches_front_end</string>
+    <string-array name='menu_options'>
+        <item>None</item>
+        <item>Blind</item>
+        <item>Deaf</item>
+        <item>Limited Mobility</item>
+        <item>Speech Impairment</item>
+        <item>Learning Disability</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
